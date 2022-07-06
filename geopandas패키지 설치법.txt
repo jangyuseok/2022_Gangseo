@@ -1,0 +1,12 @@
+#geopandas 패키지 설치를 위한 URL 밑 인스톨
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#fiona
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#shapely
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#gdal
+https://pypi.org/project/geopandas/#files
+
+#cd 다운경로 필수 입력
+!pip install pyproj
+!pip install Shapely-1.7.1-cp38-cp38-win_amd64.whl
+!pip install GDAL-3.1.4-cp38-cp38-win_amd64.whl
+!pip install Fiona-1.8.18-cp38-cp38-win_amd64.whl
+!pip install geopandas-0.8.1-py2.py3-none-any.whl
